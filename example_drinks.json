@@ -1,0 +1,29 @@
+[
+  {
+    "model": "drinks.drink",
+    "pk": 1,
+    "fields": {
+      "name": "кофе",
+      "description": "бодрящий напиток, слегка кислит",
+      "rating": 10
+    }
+  },
+  {
+    "model": "drinks.drink",
+    "pk": 2,
+    "fields": {
+      "name": "чай",
+      "description": "лучшее что есть после кофе",
+      "rating": 9
+    }
+  },
+  {
+    "model": "drinks.drink",
+    "pk": 3,
+    "fields": {
+      "name": "берёзовый сок с мякотью",
+      "description": "скрипит на зубах",
+      "rating": 5
+    }
+  }
+]
